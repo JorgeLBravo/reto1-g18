@@ -1,0 +1,151 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.header{
+  padding: 20px;
+  background: #00AF1C;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  width: 98%;
+  border-radius: 40px;
+}
+.nav-principal ul{
+  display: flex;
+}
+.lista-principal li{
+  display: fixed;
+  margin-right: 25px;
+  margin-left: 25px;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 1em;
+}
+
+.home-div-1{
+  display: block;
+  padding: 20px;
+  padding-top: 100px;
+}
+.home-div{
+  display: block  ;
+  padding: 20px;
+  padding-top: 80px;
+}
+.home-h1{
+  color: #3B06D2;
+}
+.home-div_section p{
+  margin-top: 20px;
+}
+.home-div_img{
+  margin-top: 20px;
+}
+img {
+  padding-top: 1px;
+  padding-left: 5px;
+  margin-right: 15px;
+}
+
+.servicios-div{
+  margin: 25px;
+  margin-left: 35px;
+}
+.servicios-h1{
+  color: #D206B2;
+}
+.servicios-div_ul li{
+  height: 30px;
+}
+.servi-uno-rojo{
+  color: #FF0000;
+}
+.servi-uno-azul{
+  color: #1400FF;
+}
+.servi-uno-naranja{
+  color: #D79B00;
+}
+.servi-uno-celeste{
+  color: #03B2B2;
+}
+
+.portaf{
+  color: #AAD206;
+}
+.servi-dos-naranja{
+  color: #AE8800;
+}
+.servi-dos-rojo{
+  color: #AE280B;
+}
+.servi-dos-azul{
+  color: #060564;
+}
+.servi-dos-verde{
+  color: #637300;
+}
+
+.formulario{
+  padding-top: 20px;
+  height: 400px;
+  width: 1800px;
+}
+.contacto{
+  color: #06D2C6;
+}
+.formulario__input--i1{
+  box-sizing: border-box;
+  width: 1339px;
+  height: 88px;
+  left: 38px;
+  top: 2195px;
+}
+.formulario__input--i2{
+  padding-bottom: 150px;
+  box-sizing: border-box;
+  width: 1339px;
+  height: 214px;
+}
+.formulario__input--i3{
+  display: block;
+  box-sizing: border-box;
+  color: #22A900;
+  background-color: white;
+  padding: 20px 40px;
+}
+button{
+  width: 150px;
+  height: 55px;
+  border: 2px solid #22A900;
+}
+
+footer{
+  color: white;
+  background-color: #00AF1C;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+footer{
+  font-size: 25px;
+  display: flex;
+}
+
+.fp1{
+  padding: 10px;
+  margin-left: 0px auto;
+}
+.fp2{
+  padding: 10px;
+  margin-right: 150px;
+  margin-left: 0px auto;
+}
